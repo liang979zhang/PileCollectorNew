@@ -1,0 +1,6 @@
+<com.jsti.pile.collector.widgets.NavigationBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bar"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/nav_bar_height"
+    android:background="@color/nav_bar_bg" />

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_theme">#000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="textcolor_mine">#282828</color>
+    <color name="textcolor_mine_msg">#828282</color>
+    <color name="textcolor_main_radio_n">#828282</color>
+    <color name="textcolor_main_radio_f">#2B7EC7</color>
+    <color name="textcolor_content">#282828</color>
+    <color name="textcolor_content_sub_title">#252525</color>
+    <color name="textcolor_msg">#939393</color>
+    <color name="color_main_title">#76b6f0</color>
+    <color name="color_main_yellow">#f8c228</color>
+    <color name="color_bg_gray">#E6ECF0</color>
+    <color name="color_list_item_divider">#000</color>
+    <color name="color_login_edit_bg">#F9FCFB</color>
+    <color name="color_blue_deep">#2367B9</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_slect">#ededed</color>
+    <color name="nav_bar_bg">#61c0f7</color>
+    <color name="red">#F00</color>
+
+</resources>
